@@ -85,6 +85,7 @@ class SiteController extends Controller
             ->setSubject('Запрос по Курсам')
             ->send();
 
+
         return $this->render('index');
     }
 
@@ -153,6 +154,7 @@ class SiteController extends Controller
      */
     public function actionAbout()
     {
+
         return $this->render('about');
     }
 
