@@ -912,9 +912,9 @@ AppAsset::register($this);
         <li>
             <div class="social-bar">
                 <ul class="social-bar-holder titles-typo -small-t -unlist vc_hidden-md">
-                    <li class="caption">Есть вопросы? Пишите нам в </li>
+                    <li class="caption">Есть вопросы? Пишите нам в Телеграм</li>
                     <li>
-                        <a href="https://t.me/Digitside" rel="nofollow">Телеграм</a>
+                        <a href="https://t.me/Digitside" rel="nofollow">@Digitside</a>
                     </li>
                 </ul>
             </div>
