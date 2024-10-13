@@ -7,7 +7,13 @@
                 <div class="vc_empty_space clb__spacer" style="height: 5vh">
                     <span class="vc_empty_space_inner"></span>
                 </div>
-                <div class="send-output" aria-hidden="true"><h5></h5></div>
+                <div style="margin-left: 20px">
+
+                    Вы можете записаться по телефонам: +7 (495) 143-15-20, +7 (926) 075-65-05 <br>
+                    или отправить нам сообщение через форму ниже - наш менеджер свяжется с Вами!
+
+                </div>
+                <div class="send-output"  style="margin-left: 20px" aria-hidden="true"><h5></h5></div>
                 <div class="ohio-widget contact-form -left" id="ohio-custom-6702bb638a76c">
                     <div class="wpcf7 js" id="wpcf7-f18-p19458-o1" lang="en-US" dir="ltr">
                         <div class="screen-reader-response">

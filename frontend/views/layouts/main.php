@@ -1875,7 +1875,7 @@ AppAsset::register($this);
 
                                                                 </ul>
                                                             </div>
-                                                            <a class="button -small" href="#contact" >Купить курс </a>
+                                                            <a class="button -small" href="#buy" >Купить курс </a>
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
@@ -1987,7 +1987,7 @@ AppAsset::register($this);
                                                                     </li>
                                                                 </ul>
                                                             </div>
-                                                            <a class="button" href="#contacts"> Купить курс </a></div>
+                                                            <a class="button" href="#buy"> Купить курс </a></div>
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe6f528">
@@ -2063,7 +2063,7 @@ AppAsset::register($this);
                                                                 </ul>
                                                             </div>
 
-                                                            <a class="button -small" href="#" > Купить курс</a>
+                                                            <a class="button -small" href="#buy" > Купить курс</a>
 
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 2vh"><span
@@ -2233,7 +2233,7 @@ AppAsset::register($this);
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="vc_row wpb_row vc_row-fluid">
+                                        <div class="vc_row wpb_row vc_row-fluid" id="buy">
                                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                                 <div class="vc_column-inner">
                                                     <div class="wpb_wrapper">
