@@ -908,9 +908,6 @@ AppAsset::register($this);
 <?php $this->beginBody() ?>
 <div id="page" class="site">
 
-
-    <?php if(0) { ?>
-
     <ul class="elements-bar right -unlist dynamic-typo">
         <li>
             <div class="social-bar">
@@ -918,14 +915,12 @@ AppAsset::register($this);
                     <li class="caption">Мы в соц. сетях</li>
 
                     <li>
-                        <a class="-unlink facebook" href="#"
-                           rel="nofollow">Телеграм. </a>
+                        <a  href="https://t.me/Digitside" rel="nofollow">Телеграм</a>
                     </li>
                 </ul>
             </div>
         </li>
     </ul>
-    <?php } ?>
 
     <div class="boxed-container">
         <header id="masthead" class="header header-3 both-types" data-header-fixed="true"
@@ -2298,13 +2293,11 @@ AppAsset::register($this);
                                 <div class="logo" style="display: flex;"> Digit<span style="color:#ff5e3a">side</span>.ru
                                 </div>
                             </li>
-                            <?php if(0) { ?>
                             <li id="block-7" class="widget widget_block">
                                 <strong>
-                                    <a href="#">Телеграм</a>
+                                    <a href="https://t.me/Digitside">Телеграм</a>
                                 </strong>
                             </li>
-                            <?php } ?>
                         </ul>
                     </div>
 
