@@ -14,7 +14,7 @@
                     Или отправить нам сообщение через форму ниже - наш менеджер свяжется с Вами!
 
                 </div>
-                <div class="send-output"  style="margin-left: 20px" aria-hidden="true"><h5></h5></div>
+                <div class="send-output"  style="margin-left: 20px; margin-top:20px" aria-hidden="true"><h5></h5></div>
                 <div class="ohio-widget contact-form -left" id="ohio-custom-6702bb638a76c">
                     <div class="wpcf7 js" id="wpcf7-f18-p19458-o1" lang="en-US" dir="ltr">
                         <div class="screen-reader-response">
