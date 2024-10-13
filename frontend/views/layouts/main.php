@@ -909,6 +909,8 @@ AppAsset::register($this);
 <div id="page" class="site">
 
 
+    <?php if(0) { ?>
+
     <ul class="elements-bar right -unlist dynamic-typo">
         <li>
             <div class="social-bar">
@@ -923,6 +925,8 @@ AppAsset::register($this);
             </div>
         </li>
     </ul>
+    <?php } ?>
+
     <div class="boxed-container">
         <header id="masthead" class="header header-3 both-types" data-header-fixed="true"
                 data-fixed-initial-offset="150">
@@ -2294,11 +2298,13 @@ AppAsset::register($this);
                                 <div class="logo" style="display: flex;"> Digit<span style="color:#ff5e3a">side</span>.ru
                                 </div>
                             </li>
+                            <?php if(0) { ?>
                             <li id="block-7" class="widget widget_block">
                                 <strong>
                                     <a href="#">Телеграм</a>
                                 </strong>
                             </li>
+                            <?php } ?>
                         </ul>
                     </div>
 
