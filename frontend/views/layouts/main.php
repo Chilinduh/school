@@ -913,9 +913,8 @@ AppAsset::register($this);
             <div class="social-bar">
                 <ul class="social-bar-holder titles-typo -small-t -unlist vc_hidden-md">
                     <li class="caption">Есть вопросы? Пишите нам в </li>
-
                     <li>
-                        <a  href="https://t.me/Digitside" rel="nofollow">Телеграм</a>
+                        <a href="https://t.me/Digitside" rel="nofollow">Телеграм</a>
                     </li>
                 </ul>
             </div>
@@ -1097,6 +1096,7 @@ AppAsset::register($this);
                 </div>
                 <div class="details-column">
                     <br>
+                    Телеграм: <a href="https://t.me/Digitside" rel="nofollow">@Digitside</a><br>
                     Email: edu@digitside.ru<br>
                     Тел.: +7 (495) 143-15-20,
                     +7 (926) 075-65-05
@@ -2320,6 +2320,7 @@ AppAsset::register($this);
                         <ul>
                             <li id="block-10" class="widget widget_block">
                                 <h3 class="title widget-title">Контакты</h3>
+                                <b>Телеграм:  </b><a href="https://t.me/Digitside" rel="nofollow">@Digitside</a><br>
                                 <b>Email: </b>edu@digitside.ru
                                 <br class="vc_hidden-xs">
                                 <b>Тел.: </b> +7 (495) 143-15-20, <br class="vc_hidden-xs">+7 (926) 075-65-05
