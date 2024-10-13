@@ -76,15 +76,19 @@ class SiteController extends Controller
     public function actionIndex()
     {
 
-        Yii::$app->mailerSmez->compose(['html' => 'layouts/mail'],
-            [
-                'content' => 'sdfdsf'
-            ])
-            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
-            ->setTo(['edu@digitside.ru', 'work@smezentsev.ru'])
-            ->setSubject('Запрос по Курсам')
-            ->send();
+        try {
+            Yii::$app->mailerSmez->compose(['html' => 'layouts/mail'],
+                [
+                    'content' => 'sdfdsf'
+                ])
+                ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
+                ->setTo(['edu@digitside.ru', 'work@smezentsev.ru'])
+                ->setSubject('Запрос по Курсам')
+                ->send();
 
+        } catch (InvalidArgumentException $e) {
+            throw new BadRequestHttpException($e->getMessage());
+        }
 
         return $this->render('index');
     }
