@@ -76,13 +76,13 @@ class SiteController extends Controller
     public function actionIndex()
     {
 
-        Yii::$app->mailer->compose(['html' => 'layouts/mail'],
+        Yii::$app->mailerSmez->compose(['html' => 'layouts/mail'],
             [
                 'content' => 'sdfdsf'
             ])
-            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru '])
+            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
             ->setTo('edu@digitside.ru')
-            ->setSubject('Запрос по Курсам ')
+            ->setSubject('Запрос по Курсам')
             ->send();
 
         return $this->render('index');
