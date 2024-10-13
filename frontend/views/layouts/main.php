@@ -1,3 +1,18 @@
+<?php
+
+/** @var \yii\web\View $this */
+/** @var string $content */
+
+use common\widgets\Alert;
+use frontend\assets\AppAsset;
+use yii\bootstrap5\Breadcrumbs;
+use yii\bootstrap5\Html;
+use yii\bootstrap5\Nav;
+use yii\bootstrap5\NavBar;
+
+AppAsset::register($this);
+?>
+<?php $this->beginPage() ?>
 <!DOCTYPE html>
 <!-- saved from url=(0034) -->
 <html lang="en-US" class=" js_active  vc_desktop  vc_transform  vc_transform ">
@@ -21,7 +36,8 @@
         gtag('config', 'G-H4Q3S7VS5R');
     </script>
     <meta name="robots" content="max-image-preview:large">
-    <link rel="stylesheet" id="wp-block-library-css" href="/files/style.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/files/style.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/files/custom.css" type="text/css" media="all">
     <style id="wp-block-library-theme-inline-css" type="text/css">
         .wp-block-audio :where(figcaption) {
             color: #555;
@@ -884,9 +900,12 @@
                 opacity: 1;
             }</style>
     </noscript>
+
+    <?php $this->head() ?>
 </head>
 <body class="home page-template-default page page-id-152197 wp-embed-responsive ohio-theme-3-4-4 with-header-3 with-left-mobile-hamburger with-boxed-container with-switcher with-fixed-search with-spacer with-sticky-header with-mobile-switcher links-underline icon-buttons-animation custom-cursor wpb-js-composer js-comp-ver-7.9 vc_responsive elementor-default elementor-kit-6 page-is-loaded"
       data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<?php $this->beginBody() ?>
 <div id="page" class="site">
 
 
@@ -3385,5 +3404,7 @@
 <script type="text/javascript" src="/files/b723c07aee2ab69930a17f97bd2aedc5.js" id="wphb-5-js"></script>
 
 
+<?php $this->endBody() ?>
 </body>
 </html>
+<?php $this->endPage();

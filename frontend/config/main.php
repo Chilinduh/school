@@ -41,10 +41,9 @@ return [
             'showScriptName' => false,
             'baseUrl' => '/',
             'rules' => [
-
-                '<controller:\w+>/<id:\d+>/<action:\w+>'=>'<controller>/<action>',
+                '' => 'site/index',
                 'mail' => 'mail/index',
-                'mail/call-back' => 'mail/call-back',
+                'callBack' => 'site/call-back',
             ],
         ],
     ],

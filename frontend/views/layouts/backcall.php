@@ -32,7 +32,7 @@
                                 <span class="wpcf7-spinner"></span>
                             </p>
                         </div>
-                        <div class="wpcf7-response-output" aria-hidden="true"></div>
+                        <div class="wpcf7-response-output"><h5></h5></div>
                     </div>
                     <div class="hidden" data-button-contact="true">
 

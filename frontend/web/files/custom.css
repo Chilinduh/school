@@ -1,0 +1,10 @@
+.wpcf7-response-output {
+    visibility: hidden;
+    background-color: #f4f3f5;
+    color: #161519;
+    font-size: var(--clb-text-size-small);
+    margin: 1rem 0;
+    border: none;
+    padding: .65rem 1rem;
+    border-radius: var(--clb-border-radius);
+}

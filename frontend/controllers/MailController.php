@@ -37,14 +37,16 @@ class MailController extends Controller
     public function actionCallBack()
     {
 
-        Yii::$app->mailer->compose(['html' => 'layouts/mail'],
-            [
-                'content' => 'sdfdsf'
-            ])
-            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
-            ->setTo('edu@digitside.ru')
-            ->setSubject('Перезвонить по Курсам')
-            ->send();
+        echo "DSD"; die;
+
+//        Yii::$app->mailer->compose(['html' => 'layouts/mail'],
+//            [
+//                'content' => 'sdfdsf'
+//            ])
+//            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
+//            ->setTo('edu@digitside.ru')
+//            ->setSubject('Перезвонить по Курсам')
+//            ->send();
 
         $response = new Response();
         $response->statusCode = 200;

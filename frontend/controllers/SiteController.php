@@ -15,42 +15,13 @@ use frontend\models\PasswordResetRequestForm;
 use frontend\models\ResetPasswordForm;
 use frontend\models\SignupForm;
 use frontend\models\ContactForm;
+use yii\web\Response;
 
 /**
  * Site controller
  */
 class SiteController extends Controller
 {
-    /**
-     * {@inheritdoc}
-     */
-    public function behaviors()
-    {
-        return [
-            'access' => [
-                'class' => AccessControl::class,
-                'only' => ['logout', 'signup'],
-                'rules' => [
-                    [
-                        'actions' => ['signup'],
-                        'allow' => true,
-                        'roles' => ['?'],
-                    ],
-                    [
-                        'actions' => ['logout'],
-                        'allow' => true,
-                        'roles' => ['@'],
-                    ],
-                ],
-            ],
-            'verbs' => [
-                'class' => VerbFilter::class,
-                'actions' => [
-                    'logout' => ['post'],
-                ],
-            ],
-        ];
-    }
 
     /**
      * {@inheritdoc}
@@ -67,6 +38,39 @@ class SiteController extends Controller
             ],
         ];
     }
+
+
+    /**
+     * Displays homepage.
+     *
+     * @return mixed
+     */
+    public function actionCallBack()
+    {
+
+
+        Yii::$app->mailer->compose(['html' => 'layouts/mail'],
+            [
+                'content' => 'sdfdsf'
+            ])
+            ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
+            ->setTo('edu@digitside.ru')
+            ->setSubject('Перезвонить по Курсам')
+            ->send();
+
+        $response = new Response();
+        $response->statusCode = 200;
+        $response->data = json_encode(
+            [
+                'message' => 'Спасибо за проявленный интерес. Наши менеджеры свяжутся с Вами!',
+                'code' => 0,
+                'status' => 200,
+                'type' => 'yii\\web\\BadRequestHttpException'
+            ]);
+
+        return $response;
+    }
+
 
     /**
      * Displays homepage.

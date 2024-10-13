@@ -1,19 +1,22 @@
 function sendCallBack() {
 
+    $.ajax({
+        url: "/callBack",
+        method: 'get',
+        dataType: 'json',
+        beforeSend: function () {
 
-    let response = fetch("/mail/call-back", {
-        method: "POST",
-        body: JSON.stringify({
-            text: document.getElementById('CallBackContact').value ,
-        }),
-        headers: {
-            "Content-type": "application/json; charset=UTF-8"
+        },
+        success: function (data) {
+
+            $('.wpcf7-response-output').css('visibility', 'visible');
+            $('#ohio-custom-67005dfe5c410').find('button').removeClass('btn-loading');
+            $('.wpcf7-response-output').find('h5').html(data.message)
+        },
+        error: function (response) {
+
         }
     });
 
-    console.log(response);
 
-    let commits = response.json(); // читаем ответ в формате JSON
-
-    alert(commits);
 }
