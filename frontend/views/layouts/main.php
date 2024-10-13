@@ -667,10 +667,6 @@
     <meta name="generator" content="WordPress 6.6.2">
     <link rel="canonical" href="">
     <link rel="shortlink" href="">
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
-          href="wp-json/oembed/1.0/embed?url=https%3A%2F%2Fohio.clbthemes.com%2Fdemo26%2F">
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
-          href="wp-json/oembed/1.0/embed?url=https%3A%2F%2Fohio.clbthemes.com%2Fdemo26%2F&amp;format=xml">
     <meta name="generator"
           content="Elementor 3.24.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
     <style>
@@ -901,7 +897,7 @@
                     <li class="caption">Мы в соц. сетях</li>
 
                     <li>
-                        <a class="-unlink facebook" href="https://www.facebook.com/colabrio/"
+                        <a class="-unlink facebook" href="#"
                            rel="nofollow">Телеграм. </a>
                     </li>
                 </ul>
@@ -932,7 +928,7 @@
                             </button>
                         </div>
                         <div class="branding">
-                            <a class="branding-title titles-typo -undash -unlink" href="https://digitside.ru/" rel="home">
+                            <a class="branding-title titles-typo -undash -unlink" href="http://digitside.ru/" rel="home">
                                 <div class="logo">
                                     digit<span style="color:#ff5e3a">side</span>
                                 </div>
@@ -1020,32 +1016,8 @@
                                         </ul>
                                     </div>
                                     <div class="copyright">
-                                        <p>© 2024 All rights reserved | <a  href="https://smezentsev.ru"><b>MS Digit</b></a>
-                                        </p>
-                                        <p><a href="http://clbthemes.com/" >Security</a> | <a
-                                                href="http://clbthemes.com/" >Privacy &amp; Cookie
-                                                Policy</a> | <a href="http://clbthemes.com/" >Terms of
-                                                Service</a></p>
+                                        <p>© 2024 All rights reserved | <a  href="https://smezentsev.ru"><b>MS Digit</b></a> </p>
                                     </div>
-                                </div>
-                                <div class="social-bar">
-                                    <ul class="social-bar-holder titles-typo -small-t -unlist vc_hidden-md">
-
-                                        <li class="caption">Follow Us</li>
-
-                                        <li>
-                                            <a class="-unlink facebook" href="https://www.facebook.com/colabrio/"
-                                               rel="nofollow">Fb. </a>
-                                        </li>
-                                        <li>
-                                            <a class="-unlink behance" href="https://www.facebook.com/colabrio/"
-                                               rel="nofollow">Be. </a>
-                                        </li>
-                                        <li>
-                                            <a class="-unlink youtube" href="https://www.facebook.com/colabrio/"
-                                               rel="nofollow">Yt. </a>
-                                        </li>
-                                    </ul>
                                 </div>
 
                             </div>
@@ -2780,7 +2752,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        git clone https://chilinduh@gmail.com:Gtggb_0686109@github.com/SMezentsev/school.git .
 
                                         <!-- Форма -->
                                         <?php require_once('contact-form.php'); ?>
@@ -2802,8 +2773,7 @@
                     <div class="vc_col-md-3 vc_col-sm-6 widgets-column">
                         <ul>
                             <li id="ohio_widget_logo-2" class="widget widget_ohio_widget_logo">
-                                <div class="logo" style="display: flex;">
-                                    Digit<span style="color:#ff5e3a">side</span>
+                                <div class="logo" style="display: flex;"> Digit<span style="color:#ff5e3a">side</span>
                                 </div>
                             </li>
                             <li id="block-7" class="widget widget_block">
@@ -2910,10 +2880,8 @@
                                     © 2024 All rights reserved | Разработано <a  href="https://smezentsev.ru"><b>MS Digit</b></a></div>
                                 <?php if (0) { ?>
                                     <div class="-right">
-                                        <a href="http://clbthemes.com/" >Security</a> | <a
-                                            href="http://clbthemes.com/" >Privacy &amp; Cookie
-                                            Policy</a>
-                                        | <a href="http://clbthemes.com/" >Terms of Service</a></div>
+                                        <a href="#" >Оферта</a>
+                                    </div>
                                 <?php } ?>
                             </div>
                         </div>
