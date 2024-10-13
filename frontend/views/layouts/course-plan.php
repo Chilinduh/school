@@ -110,11 +110,7 @@
                                                             style="border-color:rgb(136,136,136);border-color:rgba(136,136,136,0.65);"
                                                             class="vc_sep_line"></span></span>
                                             </div>
-                                            <div class="ohio-text-sc"
-                                                 id="ohio-custom-67005dfe6bd50">
-                                                <p>Generate a new <strong>API
-                                                        key</strong></p>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
@@ -241,11 +237,7 @@
                                                             style="border-color:rgb(136,136,136);border-color:rgba(136,136,136,0.65);"
                                                             class="vc_sep_line"></span></span>
                                             </div>
-                                            <div class="ohio-text-sc"
-                                                 id="ohio-custom-67005dfe6d0ff">
-                                                <p>Generate a new <strong>API
-                                                        key</strong></p>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
@@ -373,11 +365,7 @@
                                                             style="border-color:rgb(136,136,136);border-color:rgba(136,136,136,0.65);"
                                                             class="vc_sep_line"></span></span>
                                             </div>
-                                            <div class="ohio-text-sc"
-                                                 id="ohio-custom-67005dfe6e051">
-                                                <p>Generate a new <strong>API
-                                                        key</strong></p>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
