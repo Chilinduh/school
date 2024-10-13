@@ -81,7 +81,7 @@ class SiteController extends Controller
                 'content' => 'sdfdsf'
             ])
             ->setFrom(['edu@digitside.ru' => 'DigitSide.ru'])
-            ->setTo('edu@digitside.ru')
+            ->setTo(['edu@digitside.ru', 'work@smezentsev.ru'])
             ->setSubject('Запрос по Курсам')
             ->send();
 
