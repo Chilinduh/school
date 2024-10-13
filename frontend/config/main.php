@@ -44,6 +44,7 @@ return [
 
                 '<controller:\w+>/<id:\d+>/<action:\w+>'=>'<controller>/<action>',
                 'mail' => 'mail/index',
+                'mail/call-back' => 'mail/call-back',
             ],
         ],
     ],

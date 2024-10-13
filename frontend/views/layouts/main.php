@@ -8,7 +8,7 @@
 
     <title>Курс: WEB-разработчик за 9 месяцев</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="/files/js"></script>
+    <script src="/files/custom.js"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
