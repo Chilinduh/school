@@ -25,7 +25,7 @@
                                            placeholder="Email или телефон"
                                            value=""
                                            type="email"
-                                           id="CallBackContact">
+                                           id="CallBack-text">
                                 </span>
                                 <br>
                                 <button class="button" data-button-loading="true" onclick="sendCallBack()">Связаться со мной </button>

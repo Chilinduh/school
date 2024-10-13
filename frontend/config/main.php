@@ -44,6 +44,7 @@ return [
                 '' => 'site/index',
                 'mail' => 'mail/index',
                 'callBack' => 'site/call-back',
+                'send' => 'site/send',
             ],
         ],
     ],
