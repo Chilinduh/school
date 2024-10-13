@@ -278,7 +278,7 @@
                                                         <i class="icon ion ion-md-link"></i>
                                                 </span>
                                                 <div class="icon-box-content">
-                                                    <h5 class="icon-box-heading"> 2. Изучение Yii2. MVC.</h5>
+                                                    <h5 class="icon-box-heading"> 2. Изучение Yii2. Composer. MVC.</h5>
                                                     <p>Разрабатываем приложение приложение на Yii2</p>
                                                 </div>
                                             </div>
@@ -336,26 +336,22 @@
                                                  data-ohio-progress-bar="73"
                                                  data-processed="true">
                                                 <div class="progress-heading">
-                                                    <h6 class="label">Website
-                                                        &amp; Mobile</h6>
+                                                    <h6 class="label">Создаем полноценное приложение Yii2&MySQL</h6>
                                                 </div>
                                                 <div class="progress-holder -thin">
                                                     <div class="progress-bar"
                                                          role="progressbar"
                                                          aria-label="Progress bar"
-                                                         style="width: 73%;">
+                                                         style="width: 100%;">
                                                                                                 <span class="progress-percent tooltip">
-                                                                                                    <span class="percent">73</span>%
+                                                                                                    <span class="percent">100</span>%
                                                                                                 </span>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="ohio-text-sc"
                                                  id="ohio-custom-67005dfe6de4e">
-                                                <p>Packed with API features you
-                                                    will love to collaborate
-                                                    with issues and change
-                                                    business.</p>
+                                                <p>Дорабатываем свое приложение с исопльзованием Баз данных</p>
                                             </div>
                                             <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1648285186008 wpb_content_element  vc_custom_1648285186008 wpb_content_element">
                                                                                         <span class="vc_sep_holder vc_sep_holder_l"><span
@@ -378,31 +374,21 @@
                                             </div>
                                             <div class="ohio-widget heading -left"
                                                  id="ohio-custom-67005dfe6e248">
-                                                <h4 class="title"> Final
-                                                    steps </h4>
+                                                <h4 class="title"> Базы данных. MySQL. Запросы и оптимизация</h4>
                                                 <div class="divider"></div>
 
                                             </div>
-                                            <div class="vc_empty_space"
-                                                 style="height: 3vh"><span
-                                                        class="vc_empty_space_inner"></span>
+                                            <div class="vc_empty_space" style="height: 3vh"><span class="vc_empty_space_inner"></span>
                                             </div>
                                             <div class="ohio-widget icon-box -left -left-flex"
                                                  id="ohio-custom-67005dfe6e31d">
-                                                                                            <span class="icon-group -outlined">
-                                                                                               <i class="icon ion ion-md-git-commit"></i>
-                                                                                            </span>
+                                                <span class="icon-group -outlined">
+                                                   <i class="icon ion ion-md-git-commit"></i>
+                                                </span>
                                                 <div class="icon-box-content">
                                                     <h5 class="icon-box-heading">
-                                                        7. Create a Free
-                                                        Account</h5>
-                                                    <p>Spaces of each debt in
-                                                        the digital world can
-                                                        help you with
-                                                        overall<br>
-                                                        simplest authentic. Go
-                                                        to <b>Sign Up / Create
-                                                            an Account</b>.</p>
+                                                        1. Основы БД. SQL</h5>
+                                                    <p>Изучения языка запросов SQL. Изучение MySQL</p>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space"
@@ -416,15 +402,8 @@
                                                                                         </span>
                                                 <div class="icon-box-content">
                                                     <h5 class="icon-box-heading">
-                                                        8. Generate an API key
-                                                        for your app</h5>
-                                                    <p>To achieve best results
-                                                        in digital world can
-                                                        help you with
-                                                        overall<br>
-                                                        <b>Create an API Key</b>.
-                                                        Spaces of each debt in
-                                                        the.</p>
+                                                        2. Yii2 и MySQL. ОРМ</h5>
+                                                    <p>Подключение MySQL. Знакомство с ОРМ. Запросы и оптимизация.</p>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space"
@@ -438,10 +417,8 @@
                                                                                         </span>
                                                 <div class="icon-box-content">
                                                     <h5 class="icon-box-heading">
-                                                        9. That’s it!</h5>
-                                                    <p>Now you can use the app
-                                                        and improve your
-                                                        scores.</p>
+                                                        3. Yii2 и MySQL</h5>
+                                                    <p>Доработка приложения с использованием баз данных.</p>
                                                 </div>
                                             </div>
                                         </div>
