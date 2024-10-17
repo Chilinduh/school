@@ -1313,7 +1313,7 @@ AppAsset::register($this);
 
                                                                                 <img decoding="async"
                                                                                      class="image-primary -dm-hidden"
-                                                                                     src="/files/docker.png"
+                                                                                     src="/files/vscode.png"
                                                                                      srcset=""
                                                                                      sizes="(max-width: 260px) 100vw, 260px"
                                                                                      alt="">
@@ -1357,11 +1357,9 @@ AppAsset::register($this);
                                                                             <h3 class="title" style="color:#ff5e3a">или возврат средств за курс </h3>
                                                                         </div>
                                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe59ad8">
-                                                                            <p>Наши менторы помогут Вам <strong>составить резюме</strong>
+                                                                            <p>Наши менторы помогут Вам <strong>составить резюме</strong>, пройти тестовые собеседования с преподавателями
                                                                                 и найти достойную работу.</p>
-                                                                            <p>Наши партнер WEB-студия MS Digit
-                                                                                обеспечит Вас <strong>проектной работой</strong>.
-                                                                            </p>
+
                                                                         </div>
                                                                         <div class="vc_empty_space" style="height: 3vh">
                                                                             <span class="vc_empty_space_inner"></span>
@@ -1880,7 +1878,7 @@ AppAsset::register($this);
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe6f157">
-                                                            <p>* Полная стоимость курса составит: 112 000 руб.</p>
+                                                            <p>* Полная стоимость курса составит: 112 500 руб.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2221,7 +2219,7 @@ AppAsset::register($this);
                                                                 </div>
                                                                 <div class="accordion-collapse">
                                                                     <div class="accordion-body">
-                                                                        <p>Данный курс предназначен для студентов от 16 лет. </p>
+                                                                        <p>Данный курс предназначен для студентов от 18 лет. </p>
                                                                     </div>
                                                                 </div>
                                                             </div>
