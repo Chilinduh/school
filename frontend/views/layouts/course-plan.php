@@ -100,7 +100,7 @@
                                             </div>
                                             <div class="ohio-text-sc"
                                                  id="ohio-custom-67005dfe6bb7c">
-                                                <p>В первый месяц Вы научитесь строить простейшие приложения. Работа с формами. Git. Github.</p>
+                                                <p>В первые 3 месяца Вы научитесь строить простейшие приложения. Git. Github.</p>
                                             </div>
                                             <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1648285176726 wpb_content_element  vc_custom_1648285176726 wpb_content_element">
                                                                                         <span class="vc_sep_holder vc_sep_holder_l"><span
@@ -136,7 +136,7 @@
                                                                                         </span>
                                                 <div class="icon-box-content">
                                                     <h5 class="icon-box-heading">
-                                                        1. Основы html и css. Bootstrap.</h5>
+                                                        1. Основы html и css. Bootstrap. VStudio Code</h5>
                                                     <p>Изучение принципов верстки. Фреймворк <a href="https://bootstrap-5.ru">Bootstrap</a></p>
                                                 </div>
 
@@ -250,7 +250,7 @@
                                             </div>
                                             <div class="ohio-widget heading -left"
                                                  id="ohio-custom-67005dfe6d2e3">
-                                                <h4 class="title">Знакомство с фреймворком Yii2 и Visual Studio Code</h5>
+                                                <h4 class="title">Знакомство с фреймворком Yii2</h5>
                                                     <p>Изучаем IDE и основы MVC на примере стандартных шаблонов</h4>
                                                 <div class="divider"></div>
                                             </div>

@@ -2291,11 +2291,7 @@ AppAsset::register($this);
                                 <div class="logo" style="display: flex;"> Digit<span style="color:#ff5e3a">side</span>.ru
                                 </div>
                             </li>
-                            <li id="block-7" class="widget widget_block">
-                                <strong>
-                                    <a href="https://t.me/Digitside">Телеграм</a>
-                                </strong>
-                            </li>
+                           
                         </ul>
                     </div>
 
