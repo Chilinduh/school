@@ -1033,7 +1033,7 @@ AppAsset::register($this);
                                         </ul>
                                     </div>
                                     <div class="copyright">
-                                        <p>© 2024 All rights reserved | <a  href="https://smezentsev.ru"><b>MS Digit</b></a> </p>
+                                        <p>© 2024 All rights reserved | <a  href="https://msdigit.ru"><b>MS Digit</b></a> </p>
                                     </div>
                                 </div>
 
@@ -1098,7 +1098,7 @@ AppAsset::register($this);
                     <br>
                     Телеграм: <a href="https://t.me/Digitside" rel="nofollow">@Digitside</a><br>
                     Email: edu@digitside.ru<br>
-                    Тел.: +7 (495) 143-15-20,
+                    Тел.: +7 (495) 134-15-20,
                     +7 (926) 075-65-05
                 </div>
 
@@ -1129,7 +1129,7 @@ AppAsset::register($this);
                                                         </div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe547fb">
                                                             <div style="text-align: center;">Курс разработан WEB-студией
-                                                                <a href="https://smezentsev.ru" ><b>MS Digit</b></a></div>
+                                                                <a href="https://msdigit.ru" ><b>MS Digit</b></a></div>
                                                         </div>
                                                         <div class="ohio-widget heading clb__heading -center"
                                                              id="ohio-custom-67005dfe5475a">
@@ -1137,7 +1137,7 @@ AppAsset::register($this);
                                                         </div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe547fb">
                                                             <p style="text-align: center;">Телефон для записи: +7 (495)
-                                                                143-15-20, +7 (926) 075-65-05
+                                                                134-15-20, +7 (926) 075-65-05
                                                                 <br>Оставьте свой телефон или Email - наш менеджер
                                                                 свяжется с Вами</p>
                                                         </div>
@@ -2291,7 +2291,7 @@ AppAsset::register($this);
                                 <div class="logo" style="display: flex;"> Digit<span style="color:#ff5e3a">side</span>.ru
                                 </div>
                             </li>
-                           
+
                         </ul>
                     </div>
 
@@ -2386,7 +2386,7 @@ AppAsset::register($this);
                         <div class="vc_col-md-12">
                             <div class="holder">
                                 <div class="-left">
-                                    © 2024 All rights reserved | Разработано <a  href="https://smezentsev.ru"><b>MS Digit</b></a></div>
+                                    © 2024 All rights reserved | Разработано <a  href="https://msdigit.ru"><b>MS Digit</b></a></div>
                                 <?php if (0) { ?>
                                     <div class="-right">
                                         <a href="#" >Оферта</a>
