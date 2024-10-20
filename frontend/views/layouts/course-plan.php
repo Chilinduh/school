@@ -351,7 +351,7 @@
                                             </div>
                                             <div class="ohio-text-sc"
                                                  id="ohio-custom-67005dfe6de4e">
-                                                <p>Дорабатываем свое приложение с исопльзованием Баз данных</p>
+                                                <p>Дорабатываем свое приложение с использованием Баз данных</p>
                                             </div>
                                             <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1648285186008 wpb_content_element  vc_custom_1648285186008 wpb_content_element">
                                                                                         <span class="vc_sep_holder vc_sep_holder_l"><span
