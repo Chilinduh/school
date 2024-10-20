@@ -10,8 +10,8 @@
                 <div style="margin-left: 20px">
 
                     Вы можете записаться по телефонам: +7 (495) 143-15-20, +7 (926) 075-65-05 <br>
-                    Написать нам в Телеграм - <a href="https://t.me/Digitside">@Digitside</a><br>
-                    Или отправить нам сообщение через форму ниже - наш менеджер свяжется с Вами!
+                    Написать нам в Телеграм - <a href="https://t.me/Digitside">@Digitside</a>, <br>
+                    или отправить нам сообщение через форму ниже - наш менеджер свяжется с Вами!
 
                 </div>
                 <div class="send-output"  style="margin-left: 20px; margin-top:20px" aria-hidden="true"><h5></h5></div>

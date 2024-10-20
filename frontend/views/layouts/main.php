@@ -1868,7 +1868,7 @@ AppAsset::register($this);
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe6f157">
-                                                            <p>* Полная стоимость курса составит: 112 500 руб.</p>
+                                                            <p>* Полная стоимость курса составит: <strong>112 500 руб.</strong></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1979,7 +1979,7 @@ AppAsset::register($this);
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe6f528">
-                                                            <p>* Полная стоимость курса составит: 139 500 руб.</p>
+                                                            <p>* Полная стоимость курса составит: <strong>139 500 руб.</strong></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1995,7 +1995,7 @@ AppAsset::register($this);
                                                             <div class="pricing-table-headline">
                                                                 <h5 class="title">Экономичный</h5>
                                                                 <p class="subtitle -unspace" style="color: #fff">При
-                                                                    оплате за весь курс сразу</p>
+                                                                    оплате за весь курс сразу - экономия 23 000 руб.</p>
                                                             </div>
                                                             <div class="pricing-table-price">
                                                                 <span class="price-number titles-typo title"> 9500*</span>
@@ -2057,7 +2057,7 @@ AppAsset::register($this);
                                                         <div class="vc_empty_space" style="height: 2vh"><span
                                                                 class="vc_empty_space_inner"></span></div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe6f528">
-                                                            <p>* Полная стоимость курса составит: 85 500 руб.</p>
+                                                            <p>* Полная стоимость курса составит: <strong>89 500 руб.</strong></p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2289,8 +2289,8 @@ AppAsset::register($this);
                         <ul>
                             <li id="block-8" class="widget widget_block"><h3 class="title widget-title">Москва</h3>
 
-                                <b>Высоковольтный проезд</b><br class="vc_hidden-xs">
-                                д. 1, корп. 3, комната 127<br class="vc_hidden-xs">
+                                Высоковольтный проезд
+                                д. 1, корп. 3<br class="vc_hidden-xs">
                             </li>
                             <li id="block-9" class="widget widget_block"><h3 class="title widget-title">ИП Мезенцев С. Н.</h3>
 
