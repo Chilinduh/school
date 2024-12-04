@@ -279,7 +279,7 @@
                                                 </span>
                                                 <div class="icon-box-content">
                                                     <h5 class="icon-box-heading"> 2. Изучение Yii2. Composer. MVC.</h5>
-                                                    <p>Разрабатываем приложение приложение на Yii2</p>
+                                                    <p>Разрабатываем приложение на Yii2</p>
                                                 </div>
                                             </div>
                                             <div class="vc_empty_space" style="height: 3vh">
