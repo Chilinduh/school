@@ -1142,8 +1142,12 @@ AppAsset::register($this);
                                                              id="ohio-custom-67005dfe5475a">
                                                             <h2> WEB-разработчик за 9 месяцев</h2>
                                                         </div>
+                                                        <div class="ohio-widget heading clb__heading -center"
+                                                             id="ohio-custom-67005dfe5475a">
+                                                            <h4> Записаться на бесплатный урок можно через телеграмм <a href="https://t.me/Digitside" rel="nofollow">@Digitside</a></h4>
+                                                        </div>
                                                         <div class="ohio-text-sc" id="ohio-custom-67005dfe547fb">
-                                                            <p style="text-align: center;">Телефон для записи: +7 (495)
+                                                            <p style="text-align: center;">Также Вы можете записаться по телефонам: +7 (495)
                                                                 134-15-20, +7 (926) 075-65-05
                                                                 <br>Оставьте свой телефон или Email - наш менеджер
                                                                 свяжется с Вами</p>
